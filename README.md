@@ -5,10 +5,10 @@ Um projeto que fiz com instruções em um evento da Rocketseat chamado Next Leve
 
 The used technologies are:              |             As técnologias usadas no código são:
 
--NodeJS
--Yarn
--JavaScript
--TypeScript
--Express
--Mustache templates
+-NodeJS<br>
+-Yarn<br>
+-JavaScript<br>
+-TypeScript<br>
+-Express<br>
+-Mustache templates<br>
 -SQLite
